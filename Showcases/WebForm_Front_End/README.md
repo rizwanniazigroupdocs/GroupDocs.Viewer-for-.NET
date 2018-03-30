@@ -1,24 +1,6 @@
 # Web Form Front End Powered by GroupDocs.Viewer
 
-This Application allows a user to see the Html or Image Representation of a document. User can apply watermark and apply other trnasformations like Reordering and rotation to the output pages.
+## Important Note
+> This project has been moved to the folder [ASP.NET_WebForm_Front_End](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-.NET/tree/master/Showcases/ASP.NET_WebForm_Front_End).
 
-# Pre-Requisites
-
-* Visual Studio 2012 or later.
-* Any latest browsers (Firefox, Chrome ,IE9 or greater, Safari etc. )
-* GroupDocs.Viewer 3.0.0.
-
-
-# Installation
-
-* Visual Studio 2012 or Later.
-* Download the code, open it in MS Visual Studio 2012 
-* Download *GroupDocs.Viewer 3.0.0* Or add from Nuget.
-* Add the Reference of GroupDocs.Viewer into the project.
-* Update the required or missing libraries from Nuget.
-* Run the code.
-
-# Apply Licence
-
-* Open Web.Config.
-* Write license file path as the value of LicenseFile Key
+> We have **stopped the support & maintenance for this app** and we encourage you to explore our latest - **[Document Viewer Front-End App (MVC Modern UI)](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-.NET-MVC-App)** and **[Document Viewer Front-End App (WebForms Modern UI)](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-.NET-webforms-App)** with many features and also support & maintenance for these apps only available and will be continued.
